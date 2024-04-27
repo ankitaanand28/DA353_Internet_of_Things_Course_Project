@@ -1,4 +1,4 @@
-# DA353_Internet_of_Things_Course_Project
+# DA353 Internet of Things Course Project
 By @ankitaanand28 @Sunanda-K-H @SHIVAM200219
 ## Crop And Fertilizer Recommendation
 A website that allows farmers to get a crop and fertilizer recommendation based on their soil and location details using machine learning models.
@@ -24,13 +24,13 @@ Running the app
 1. Navigate to the server directory:
 
 2. Start the server by running the following command:
-   ## Getting Started
+ 
 
    ```bash
    cd crop-prediction/server
    python server.py
    ```
-   **Run the App:**
+
 
 Open a separate terminal and run the following command from the root directory:
 
@@ -39,7 +39,7 @@ cd crop-prediction
 npm start
 ```
 
-To automatically extract the latest data entry from the MongoDB server run this file , ensure you have access to the MongoDB database.
+To automatically extract the latest data entry from the MongoDB server run this file on a separate terminal , ensure you have access to the MongoDB database.
 
    ```bash
    cd crop-prediction/server
