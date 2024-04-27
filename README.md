@@ -47,7 +47,12 @@ To automatically extract the latest data entry from the MongoDB server and fill 
    python selenium_autofill.py
    ```
 
+For subscribing to mqtt , open a separate terminal and run the following command from the root directory:
 
+```bash
+node subscribe.js
+```
 
+For publishing to mqtt, you can simply run publish.py in upide.
 
 
