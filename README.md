@@ -1,7 +1,8 @@
 # DA353 Internet of Things Course Project
-By @ankitaanand28 @Sunanda-K-H @SHIVAM200219
+By [ankitaanand28](https://github.com/ankitaanand28) , [Sunanda-K-H](https://github.com/Sunanda-K-H) and [SHIVAM200219](https://github.com/SHIVAM200219)
+
 ## Crop And Fertilizer Recommendation
-A website that allows farmers to get a crop and fertilizer recommendation based on their soil and location details using machine learning models.
+A website that allows farmers to get a crop and fertilizer recommendation based on their soil using machine learning models.
 
 ## Technologies
 
