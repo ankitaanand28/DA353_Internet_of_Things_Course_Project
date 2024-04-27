@@ -40,7 +40,7 @@ cd crop-prediction
 npm start
 ```
 
-To automatically extract the latest data entry from the MongoDB server run this file on a separate terminal , ensure you have access to the MongoDB database.
+To automatically extract the latest data entry from the MongoDB server and fill that onto website that keeps updating itself in every 15 seconds, run this file on a separate terminal , ensure you have access to the MongoDB database.
 
    ```bash
    cd crop-prediction/server
